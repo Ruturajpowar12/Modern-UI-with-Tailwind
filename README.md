@@ -14,14 +14,6 @@ A modern, responsive user interface project built with **Tailwind CSS** - a util
 - **Accessibility**: Built-in accessibility features for creating inclusive designs
 - **Dark Mode**: Native dark mode support
 
-```
-
-## 🚀 Getting Started
-
-1. Clone or download this repository
-2. Navigate to the project directory
-3. Open `grocify/index.html` in your web browser
-4. Explore the modern UI components and designs
 
 ## 💡 Technologies Used
 
@@ -29,14 +21,5 @@ A modern, responsive user interface project built with **Tailwind CSS** - a util
 - **CSS3 & Tailwind CSS**: Modern styling with utility classes
 - **JavaScript**: Interactive functionality (if applicable)
 
-## 📝 License
-
-This project is open source and available for educational and commercial use.
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork, modify, and enhance this project.
-
----
 
 For more information about Tailwind CSS, visit [Tailwind CSS Official Documentation](https://tailwindcss.com/docs)
