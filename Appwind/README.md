@@ -2,7 +2,7 @@
 
 A clean Tailwind CSS landing page for an app or software product. Appwind includes a top navigation bar, gradient hero section, download call-to-action, video button, and mobile app preview artwork.
 
-![Appwind screenshot](src/assets/appwind-screenshot.png)
+![Appwind screenshot](src/assets/Screenshot%202026-05-27%20173919.png)
 
 ## Features
 
