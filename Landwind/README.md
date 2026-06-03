@@ -4,7 +4,7 @@ A modern and responsive landing page built with **React.js** and **Tailwind CSS*
 
 ## 📸 Screenshot
 
-![Landwind Landing Page](assets/Screenshot%202026-06-03%20181450.png)
+![Landwind Landing Page](./public/Screenshot%202026-06-03%20181450.png)
 
 ## ✨ Features
 
