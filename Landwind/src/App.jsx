@@ -40,17 +40,17 @@ function App() {
       </nav>
 
       <main className=" h-4/5  flex ">
-        <div className="left  w-3/5 flex flex-col p-10">
-          <h1 className=" text-6xl font-bold ">
+        <div className="left  w-3/5 flex flex-col p-20">
+          <h1 className=" text-6xl  font-extrabold  font-bold mb-7 mt-20  ">
             Building Digital <br /> products & brands.
           </h1>
-          <p className="">
+          <p className="mb-10">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus,
             perferendis facere labore tempora quis illo? Hic, tempore. Nesciunt
             autem facere aliquam. Quisquam corporis est iste error aspernatur,
             vitae ab eveniet?
           </p>
-          <div className="btn-box">
+          <div className="btn-box flex gap-5">
             <button className="bg-purple-600 text-white px-4 py-2 rounded-lg  transition-transform duration-300 hover:scale-90">
               Start 30 day free trial
             </button>
